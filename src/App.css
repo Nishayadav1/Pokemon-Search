@@ -1,5 +1,10 @@
+.main{
+  width: 100vw;
+  /* height: 100vh; */
 
+}
 .app {
+  /* border: 2px solid ; */
   text-align: center;
   display: flex;
   flex-direction: column;

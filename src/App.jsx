@@ -26,6 +26,7 @@ const App = () => {
   );
 
   return (
+    <div className="main">
     <div className="app">
       <h1>Pokemon Search</h1>
       <input 
@@ -43,6 +44,7 @@ const App = () => {
           </div>
         ))}
       </div>
+    </div>
     </div>
   );
 };
