@@ -18,5 +18,5 @@ This is a simple React application that allows users to search for Pokémon from
 
   # UI
 ![image](https://github.com/user-attachments/assets/55daf0fb-7235-46ec-a2a8-7e428d0a8966)
-![image](https://github.com/user-attachments/assets/893fae4f-b5b4-4e20-9679-1405890c1aeb)
+
 
